@@ -10,4 +10,4 @@ Sign Up, LogIn and LogOUT System\
 Add income or Expense\
 Table of income and expense\
 Total Income, Total Expense and account total\
-Remove any income or expense\
+Remove any income or expense
