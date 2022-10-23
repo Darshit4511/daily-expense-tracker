@@ -1,7 +1,7 @@
 # daily-expenses-tracker
 
-This site made in collabration with my friend Harval who made Frontend and I created backend in PHP and MYSQL.
-
+This site made in collabration with my friend Harval who made Frontend and I created backend in PHP and MYSQL.\
+Use "database_import.sql" to import database in your system 
 ## Multiple Users
 You can register and login through different credentials and manage their incomes and expenses seperately.
 
